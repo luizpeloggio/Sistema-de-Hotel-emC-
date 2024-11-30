@@ -1,0 +1,1 @@
+É um arquivo que opera um sistema de hotel: reserva, cancelamento de reserva, lista quartos disponíveis e ocupados. Este projeto usa linguagem C.
